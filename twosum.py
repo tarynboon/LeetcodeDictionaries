@@ -1,4 +1,7 @@
 # Two Sum
+"""
+Sum of two integers.
+"""
 class Solution(object):
     def sum(self, num1, num2):
         """
